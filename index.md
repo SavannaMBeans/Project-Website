@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## About Savanna
 
-Welcome to my website!
+Savanna is a senior engineering major at Harvey Mudd College. She has an interdisciplinary background in mechanical, materials, and biomedical engineering and is interested in pursuing a career in any three of those fields. She is also a student leader for the engineering department and the Residential life office often working as a go betweeen for students and admin. With strong interpersonal skills, determination, and follow through, Savanna is excited for a career in engineering!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience
+Savanna's [resume](https://drive.google.com/file/d/1cI6Sl3EUC9EAm10BwUSlxEt1vQ6n0cAx/view?usp=sharing) includes coursework, research, and project experience. What's not included is her leadership work.
 
-### Markdown
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
